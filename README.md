@@ -19,5 +19,5 @@ A secure banking application with facial authentication using Python, OpenCV, an
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HamzaElmourabit/Projet_Python_Grp18_HamzaElmourabit_ZakariaKhachane.git
-   cd Projet_Python_Grp18_HamzaElmourabit_ZakariaKhachane
+   git clone https://github.com/HamzaElmourabit/Facial_Recognition_Banking_System-MNIST.git
+   cd Facial_Recognition_Banking_System-MNIST
