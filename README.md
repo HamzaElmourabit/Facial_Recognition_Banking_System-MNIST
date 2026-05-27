@@ -342,32 +342,6 @@ The trained model predicts user identity from real-time images.
 
 ---
 
-# 📸 Screenshots
-
-## 🔐 Login Interface
-
-```text
-[ Add login interface screenshot ]
-```
-
----
-
-## 👁️ Face Detection
-
-```text
-[ Add face detection screenshot ]
-```
-
----
-
-## 🧠 Model Prediction
-
-```text
-[ Add prediction result screenshot ]
-```
-
----
-
 # 🔐 Security Advantages
 
 ✅ Biometric authentication  
