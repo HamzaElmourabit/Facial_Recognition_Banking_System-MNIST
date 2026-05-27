@@ -465,7 +465,7 @@ If you like this project:
 
 ---
 
-# ❤️ Final Note
+#  Final Note
 
 This project demonstrates how Artificial Intelligence and Computer Vision can be integrated into banking systems to create secure, modern, and intelligent authentication solutions.
 
